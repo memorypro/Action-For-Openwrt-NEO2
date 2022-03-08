@@ -6,7 +6,7 @@
 # Blog: https://P3TERX.com
 #=================================================
 
-name: Build OpenWrt
+name: Build OpenWrt For NEO2
 
 on:
   repository_dispatch:
